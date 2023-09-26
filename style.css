@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-size:16px;
+}
+
+.container_1{
+    width:100%;
+    background-color: #1F2937;
+    color:white;
+
+}
+
+.headerClass{
+    display:flex;
+    flex-direction:space-around;
+}
+
+.container{
+    width:100%;
+    background-color:#1F2937;
+    color:white;
+
+
+}
+
+.hero_flex{
+    display:flex;
+    flex-direction:column;
+    justify-content: flex-start;
+    align-items: flex-start;
+
+}
+
+.flex_class{
+    display:flex;
+
+}
